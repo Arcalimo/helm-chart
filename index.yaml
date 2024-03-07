@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  prueba-flask:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-03-07T15:29:43.581132431Z"
+    description: A Helm chart for Kubernetes
+    digest: 65d957bac4150e0a855d827adab6ec2deeab81cb0816f8129850b3cfa6be4474
+    name: prueba-flask
+    type: application
+    urls:
+    - charts/prueba-flask-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-07T15:29:43.577771835Z"
